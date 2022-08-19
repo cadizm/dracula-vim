@@ -288,7 +288,7 @@ else
   hi! link SpecialKey DraculaPink
 endif
 
-hi! link Comment DraculaComment
+hi! link Comment DraculaCyanItalic
 hi! link Underlined DraculaFgUnderline
 hi! link Todo DraculaTodo
 
@@ -325,7 +325,7 @@ hi! link StorageClass DraculaPink
 hi! link Structure DraculaPink
 hi! link Typedef DraculaPink
 
-hi! link Type DraculaCyanItalic
+hi! link Type DraculaGreen
 
 hi! link Delimiter DraculaFg
 
